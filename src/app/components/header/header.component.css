@@ -4,5 +4,16 @@
 
 img {
   max-width: 100px;
-  margin-right: 20px;
+}
+
+.logo {
+  max-width: 50px;
+  padding: 5px 0px;
+}
+
+mat-toolbar {
+  background: linear-gradient(#f58220, #f7a055);
+  color: #fff;
+  height: 60px;
+  border-radius: 0px 0px 20px 20px;
 }
