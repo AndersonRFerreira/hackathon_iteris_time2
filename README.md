@@ -1,6 +1,6 @@
 # HackathonDecola
 
-TIME2 Formado por Giovanni Dotta, Thais Roos gularte e [Anderson Reis]( https://github.com/AndersonRFerreira).
+TIME2 Formado por [Giovanni Dotta](https://github.com/DoTTa0), [Thais Roos gularte](https://github.com/thaisrrg) e [Anderson Reis]( https://github.com/AndersonRFerreira).
 
 
 
