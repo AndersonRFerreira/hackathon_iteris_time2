@@ -1,0 +1,8 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://www.cycladia.com/blog/wp-content/uploads/2012/08/olympic_games_6.jpg');
+  background-size: cover;
+}

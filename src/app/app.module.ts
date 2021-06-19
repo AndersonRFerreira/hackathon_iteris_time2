@@ -11,6 +11,12 @@ import { CuriosidadesComponent } from './components/curiosidades/curiosidades.co
 
 import {MatTabsModule} from '@angular/material/tabs';
 import { NavTabComponent } from './components/nav-tab/nav-tab.component';
+import { MatGridListModule } from '@angular/material/grid-list';
+import { MatCardModule } from '@angular/material/card';
+import { MatMenuModule } from '@angular/material/menu';
+import { MatButtonModule } from '@angular/material/button';
+import { LayoutModule } from '@angular/cdk/layout';
+import { CuriosidadesCardComponent } from './components/curiosidades-card/curiosidades-card.component';
 
 
 
@@ -19,7 +25,9 @@ import { NavTabComponent } from './components/nav-tab/nav-tab.component';
     AppComponent,
     HeaderComponent,
     CuriosidadesComponent,
-    NavTabComponent
+    NavTabComponent,
+    CuriosidadesCardComponent,
+
   ],
   imports: [
     BrowserModule,
@@ -27,7 +35,12 @@ import { NavTabComponent } from './components/nav-tab/nav-tab.component';
     BrowserAnimationsModule,
     MatToolbarModule,
     MatIconModule,
-    MatTabsModule
+    MatTabsModule,
+    MatGridListModule,
+    MatCardModule,
+    MatMenuModule,
+    MatButtonModule,
+    LayoutModule
   ],
   providers: [],
   bootstrap: [AppComponent]
