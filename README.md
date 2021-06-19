@@ -1,5 +1,9 @@
 # HackathonDecola
 
+TIME2 Formado por Giovanni Dotta, Thais Roos gularte e [Anderson Reis]( https://github.com/AndersonRFerreira).
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
