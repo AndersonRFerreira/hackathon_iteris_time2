@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+mat-tab-group {
+  width: 100%;
+}
