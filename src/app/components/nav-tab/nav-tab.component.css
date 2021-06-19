@@ -2,7 +2,7 @@ div {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-  width: 100%;
+  width: 97%;
   height: auto;
   padding: 5px;
 }

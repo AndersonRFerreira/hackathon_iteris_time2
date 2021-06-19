@@ -13,7 +13,8 @@ import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { GanhadoresComponent} from './components/ganhadores/ganhadores.component';
-import { HttpClientModule} from '@angular/common/http';
+import { ModalidadesComponent } from './components/modalidades/modalidades.component';
+import { HttpClientModule } from '@angular/common/http';
 
 
 
@@ -23,6 +24,7 @@ import { HttpClientModule} from '@angular/common/http';
     HeaderComponent,
     NavTabComponent,
     GanhadoresComponent,
+    ModalidadesComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,7 +35,8 @@ import { HttpClientModule} from '@angular/common/http';
     MatTabsModule,
     MatTableModule,
     MatPaginatorModule,
-    HttpClientModule
+    MatSortModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
